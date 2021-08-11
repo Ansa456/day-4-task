@@ -1,0 +1,16 @@
+h1{
+    color: chartreuse;
+    font-size: 18px;
+    font-weight: 300;
+    
+}
+p{
+    background-color: darkred;
+    color: #ffff00;
+   /* width: 400px;*/
+   
+    margin:  15px 20px 40px;
+    padding: 10px;
+    
+    border: 10px solid chartreuse;
+}
