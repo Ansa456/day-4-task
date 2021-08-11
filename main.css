@@ -1,0 +1,21 @@
+h1{
+    background-color:orchid;
+    border: black 5px solid;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+h2{
+    color: palevioletred;
+    
+}
+h3{
+    color:tomato;
+    
+}
+h4{
+    font-size: 25px;
+    text-align: center;
+    color: mediumslateblue;
+}
